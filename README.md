@@ -21,6 +21,7 @@ Beside, Working using the development & Testing tools like: The Agile & Scrum To
 </p>
 
 <h2>Skills</h2>
+
 <h3>Software Engineering Skills</h3>
 <ul>
 <li>Software Engineering & Architecture: participate, propose, and find the most suitable solutions using design, enterprise, or architectural patterns.</li> 
@@ -29,6 +30,14 @@ Beside, Working using the development & Testing tools like: The Agile & Scrum To
 <li>Solid experience in most common algorithms and software complexity. </li>
 <li>Software analysis and modeling with standards of documenting experience. </li>
 </ul>
+
+
+<h3>Frontend Development Skills</h3>
+<li>Front-End Development: HTML5, CSS3, JavaScript, AJAX, Bootstrap, Tailwind and jQuery.</li>
+<li>UI Styling languages: CSS, SASS and LESS.</li>
+<li>UI Frameworks & Libraries including: ReactJS, AngularJS, Express, Axios, OAuth, JWT, Firebase, Redux, Express, Nodemon and NextJS.</li>
+<li>UI Templating Languages: JSX, Blade, HBS.</li>
+<li>System Integration with external APIs like:  Facebook APIs, MailChimp API, PayPal and Payment Gateways, Eventbrite API, Amazon AWS SES, Google Maps and Twilio API. </li>
 
 <h2>Get in Touch</h2>
 <p>If you have any questions, Contact <a href="mailto:eng.ahmed.bassioni@gmail.com">Via Email</a> or <a href="https://www.linkedin.com/in/basioni/">On LinkedIn</a>
