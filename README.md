@@ -67,6 +67,21 @@ Beside, Working using the development & Testing tools like: The Agile & Scrum To
       </ul>    
      </td>
   </tr>
+   <tr>
+    <td>
+      <h3>Software Testing Skills</h3>
+      <ul>
+       <li>Source Controlling software like GitHub, Gitlab and (Bitbucket). </li>
+      <li>CLI data models: including Redis, Nginx, Debian, Ubuntu and MS PowerShell. </li>
+      <li>Agile Project management on Scrum or Agile methodologies. (Familiar with Jira & Click-Up management tools)</li>
+      <li>Packages & Containers Management Tools: npm, Yarn, Yaml,  Docker and Kubernetes. </li>
+      <li>Software Architecture: GCP, Amazon AWS, ElasticSearch. </li>
+      </ul>
+    </td>
+     <td>
+      &nbsp;
+    </td>
+   </tr>
  </table>
 
 
