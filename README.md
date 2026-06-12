@@ -17,6 +17,10 @@ I started coding my first J2SE, JSP and J2ME Software in <b>2008</b>.
   Hence, I focused my efforts on implementing and writing the languages of the Full-stack development For PHP Frameworks( Like Angular and Laravel) and JavaScript Frameworks ( Like: React, NodeJS, for back-end and front-end. Including the RDBMS and nosql database models(like MongoDB). 
 </p>
 <p>
+<b>Recently,</b> My passion is building and modeling the high-level architecture of Agentic AI & Generative AI & RAG systems. And, to apply the reAct design patterns and modeling using the new AI LLMs like: Openai & Gemini & Claude. 
+I keep my eyes on the recet automation applications for powering up the generative ai applications.
+</p>
+<p>
 Beside, Working using the development & Testing tools like: The Agile & Scrum Tools, Software Development Staging & Pipeline, Packaging and containerizing the delivery of the software.
 </p>
 
